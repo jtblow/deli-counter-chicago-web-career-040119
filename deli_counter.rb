@@ -9,3 +9,4 @@ def line(katz_deli)
    puts current_line << "The line is currently: #{index} #{name}"
 end
 end
+end
