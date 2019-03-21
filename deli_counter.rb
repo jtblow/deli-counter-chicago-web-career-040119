@@ -9,4 +9,3 @@ def line(katz_deli)
    "The line is currently: #{index + 1} #{name}"
 end
 end
-end
