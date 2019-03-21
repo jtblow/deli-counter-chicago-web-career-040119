@@ -10,3 +10,4 @@ def line(katz_deli)
   end
   current_line
 end
+end
