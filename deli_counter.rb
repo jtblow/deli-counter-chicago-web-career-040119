@@ -4,6 +4,6 @@ def line(katz_deli)
   if katz_deli.length < 1 
     puts "The line is currently empty."
   elsif katz_deli >= 1 
-  
+  attendees.each_with_index.map do |attendee, index|
   end
 end
