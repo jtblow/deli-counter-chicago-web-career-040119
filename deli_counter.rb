@@ -8,6 +8,6 @@ def line(katz_deli)
   katz_deli.each_with_index do |index, name|
     current_line << "The line is currently: #{index} #{name}"
   end
-  current_line
+  puts current_line
 end
 end
