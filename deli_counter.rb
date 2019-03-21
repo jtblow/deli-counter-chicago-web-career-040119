@@ -11,9 +11,9 @@ end
 puts current_line
 end
 end
-def take_a_number(name, index)
+def take_a_number(katz_deli, name)
   katz_deli.push(name)
-  "Welcome, #{name}. You are number #{[index + 1]} in line."
+  "Welcome, #{name}. You are number #{name[i + 1]} in line."
 end
 
   
