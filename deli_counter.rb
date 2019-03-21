@@ -5,7 +5,7 @@ def line(katz_deli)
   if katz_deli.length < 1 
     puts "The line is currently empty."
   else
-  attendees.each_with_index do |index, name|
+  katz_deli.each_with_index do |index, name|
     current_line << "The line is currently: #{index} #{name}"
   end
   current_line
