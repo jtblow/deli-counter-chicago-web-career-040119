@@ -6,5 +6,6 @@ def line(katz_deli)
     puts "The line is currently empty."
   elsif katz_deli >= 1 
   attendees.each_with_index do |index, name|
+    
   end
 end
