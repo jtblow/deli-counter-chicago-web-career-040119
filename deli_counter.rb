@@ -12,6 +12,6 @@ puts current_line
 end
 end
 def take_a_number(katz_deli, name)
-  new_line = []
   katz_deli.push(name)
+  ""
   
